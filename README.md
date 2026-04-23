@@ -18,9 +18,9 @@ As a Computer Engineering student at Istanbul Sabahattin Zaim University, I deve
 
 ## 📂 File Structure
 - [📄 Download Schematic PDF](https://github.com/betulsenyil/Automobile-Copilot-Hardware/blob/main/Copilot_Power_Motor_Board.kicad_pcb.pdf)
+- `Hardware/Production_Files/`: Technical layer exports for manufacturing.
 - `Copilot_Power_Motor_Board.kicad_sch`: Schematic source file.
-- `Copilot_Power_Motor_Board.kicad_pcb`: Printed Circuit Board (PCB) layout source file.
-- `Copilot_Power_Motor_Board.kicad_pro`: KiCad project management file.
+- `Copilot_Power_Motor_Board.kicad_pcb`: PCB layout source file.
 
 ## 🚀 Technologies Used
 - **Design Tool:** KiCad 9.0
